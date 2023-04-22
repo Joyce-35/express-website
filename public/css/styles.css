@@ -1,0 +1,16 @@
+body{
+    background-color: azure;
+    font-family: cursive;
+}
+h1{
+    color: rgb(103, 231, 131);
+    text-align: center;
+    font-family: cursive;
+}
+p{
+    width: 400px;
+    height: 200px;
+    border: 1px solid black;
+    margin: 10px;
+    display: inline-flex;
+}
